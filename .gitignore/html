@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+ <meta charset="iso-8859-1">
+ <meta name="description" content="Ejemplo de HTML5">
+ <meta name="keywords" content="HTML5, CSS3, JavaScript">
+ <title>experimeno de HTML 5</title>
+ <link rel="stylesheet" href="misestilos.css" />
+</head>
+<body>
+ <header>
+ <h1>experimentacion</h1>
+ </header>
+ <nav>
+ <ul>
+ <li>principal</li>
+ <li>fotos</li>
+ <li>videos</li>
+ <li>contacto</li>
+ </ul>
+ </nav>
+ <section>
+ <article>
+ <header>
+ <hgroup>
+ <h1>Título del mensaje uno</h1>
+ <h2>Subtítulo del mensaje uno</h2>
+ </hgroup>
+ <p>publicado 10-12-2011</p> 
+ </header>
+ Este es el texto de mi primer mensaje
+ <footer>
+ <p>comentarios (0)</p>
+ </footer>
+ </article>
+ <article>
+ <header>
+ <hgroup>
+ <h1>Título del mensaje dos</h1>
+ <h2>Subtítulo del mensaje dos</h2>
+ </hgroup>
+ <p>publicado 15-12-2011</p>
+ </header>
+ Este es el texto de mi segundo mensaje
+ <footer>
+ <p>comentarios (0)</p>
+ </footer>
+ </article>
+ </section>
+ <aside>
+     <header>
+     <h1>deberias aparecer en el lado derecho</h1>
+     </header>
+ <blockquote>porfavor, nesecito verlos</blockquote>
+ <blockquote>porfavor, nesesito verlos</blockquote>
+ </aside>
+ <footer>
+aun sin derechos reservados, ni domino, si quieres robarme estoy a tu disposicion. 
+ </footer>
+</body>
+</html>
+ 
